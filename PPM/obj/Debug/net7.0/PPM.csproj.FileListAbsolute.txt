@@ -1,0 +1,5 @@
+C:\Users\SMandlole\Desktop\PPM\obj\Debug\net7.0\PPM.csproj.AssemblyReference.cache
+C:\Users\SMandlole\Desktop\PPM\obj\Debug\net7.0\PPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\Desktop\PPM\obj\Debug\net7.0\PPM.AssemblyInfoInputs.cache
+C:\Users\SMandlole\Desktop\PPM\obj\Debug\net7.0\PPM.AssemblyInfo.cs
+C:\Users\SMandlole\Desktop\PPM\obj\Debug\net7.0\PPM.csproj.CoreCompileInputs.cache
